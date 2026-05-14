@@ -8,8 +8,11 @@ This paper proposes an Information-Balanced Multimodal Learning (IBML) framework
 
 ## Todo List
 ✅ Dataset
+
 Coming in 1-2 weeks...
+
 🈚️ Method Code
+
 🈚️ Checkpoints
 
 ## 📕 Data
